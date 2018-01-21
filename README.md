@@ -17,7 +17,7 @@
 #### Organization
 	- Project group: 
 		- Quan Vo (project manager)
-		- Illari Leman 
+		- Ilari Leman 
 		- Yan Li
 		- Anh Le 
 		- Nhut Tran
