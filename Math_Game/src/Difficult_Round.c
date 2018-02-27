@@ -50,7 +50,7 @@ void Conver_To_Binary(const int* random_Num, int* result )      //const int* - t
         if(Num != 0)
         {
             *result = (Num % 2 == 0) ? 0 : 1;               //Converting decimal to binary
-            Num = Num  >> 1;                                //Squaring
+            Num = Num  >> 1;                                //divided by 2
             result++;                                       //Point to next element in int array
         }
         else if(Num == 0)
